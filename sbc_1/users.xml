@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<users>
+            
+    
+    <user>
+                        
+        
+        <username>john</username>
+                        
+        
+        <password>1234</password>
+                        
+        
+        <email>john@example.com</email>
+                    
+    
+    </user>
+            
+    
+    <user>
+                        
+        
+        <username>alice</username>
+                        
+        
+        <password>1111</password>
+                        
+        
+        <email>alice@example.com</email>
+                    
+    
+    </user>
+            
+    
+    <user>
+                        
+        
+        <username>bob</username>
+                        
+        
+        <password>0000</password>
+                        
+        
+        <email>bob@example.com</email>
+                    
+    
+    </user>
+        
+    
+    <user>
+                
+        <username>bob123</username>
+                
+        <password>12345678</password>
+                
+        <email/>
+            
+    </user>
+    
+    <user>
+        <username>bob1234</username>
+        <password>12345678</password>
+        <email>test</email>
+    </user>
+</users>
